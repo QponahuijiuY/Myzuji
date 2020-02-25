@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jspSmartUpload (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/jspSmartUpload.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
